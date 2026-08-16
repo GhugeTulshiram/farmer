@@ -10,6 +10,7 @@ HTML5
 CSS3
 JavaScript
 MySQL
+
 Weather API (wttr.in)
 XAMPP / Apache
 VS Code
