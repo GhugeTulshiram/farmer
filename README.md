@@ -12,14 +12,3 @@ XAMPP / Apache
 VS Code
 
 
-Main Features
-👨‍🌾 Farmer Login & Authentication
-🌱 Crop Management
-🦠 Crop Disease Detection
-💧 Irrigation Management
-☁️ Weather Updates
-🛒 Agriculture Marketplace
-💳 Product Purchase & Payment Status
-📦 Order Management
-👨‍🔬 Agriculture Expert Support
-🌾 Farming Recommendations
